@@ -1,0 +1,25 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "study and practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vladsuli/suli-repo.git"
+  },
+  "keywords": [
+    "study",
+    "practice",
+    "for",
+    "nodejs"
+  ],
+  "author": "vlad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vladsuli/suli-repo/issues"
+  },
+  "homepage": "https://github.com/vladsuli/suli-repo#readme"
+}
